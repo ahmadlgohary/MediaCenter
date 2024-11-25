@@ -1,0 +1,9 @@
+.\objects\adcuser.o: audio_stream_files\adcuser.c
+.\objects\adcuser.o: audio_stream_files\type.h
+.\objects\adcuser.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\adcuser.o: audio_stream_files\usb.h
+.\objects\adcuser.o: audio_stream_files\audio.h
+.\objects\adcuser.o: audio_stream_files\usbcfg.h
+.\objects\adcuser.o: audio_stream_files\usbcore.h
+.\objects\adcuser.o: audio_stream_files\adcuser.h
+.\objects\adcuser.o: audio_stream_files\usbaudio.h

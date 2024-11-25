@@ -1,0 +1,11 @@
+.\objects\usbcore.o: audio_stream_files\usbcore.c
+.\objects\usbcore.o: audio_stream_files\type.h
+.\objects\usbcore.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usbcore.o: audio_stream_files\usb.h
+.\objects\usbcore.o: audio_stream_files\usbcfg.h
+.\objects\usbcore.o: audio_stream_files\usbhw.h
+.\objects\usbcore.o: audio_stream_files\usbcore.h
+.\objects\usbcore.o: audio_stream_files\usbdesc.h
+.\objects\usbcore.o: audio_stream_files\usbuser.h
+.\objects\usbcore.o: audio_stream_files\audio.h
+.\objects\usbcore.o: audio_stream_files\adcuser.h

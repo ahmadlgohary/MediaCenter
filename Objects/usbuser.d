@@ -1,0 +1,9 @@
+.\objects\usbuser.o: audio_stream_files\usbuser.c
+.\objects\usbuser.o: audio_stream_files\type.h
+.\objects\usbuser.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usbuser.o: audio_stream_files\usb.h
+.\objects\usbuser.o: audio_stream_files\usbcfg.h
+.\objects\usbuser.o: audio_stream_files\usbhw.h
+.\objects\usbuser.o: audio_stream_files\usbcore.h
+.\objects\usbuser.o: audio_stream_files\usbuser.h
+.\objects\usbuser.o: audio_stream_files\usbaudio.h

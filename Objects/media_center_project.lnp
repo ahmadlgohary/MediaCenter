@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+".\objects\glcd_spi_lpc1700.o"
+".\objects\led.o"
+".\objects\kbd.o"
+".\objects\adcuser.o"
+".\objects\core_cm3.o"
+".\objects\usbcore.o"
+".\objects\usbdesc.o"
+".\objects\usbdmain.o"
+".\objects\usbhw.o"
+".\objects\usbuser.o"
+".\objects\main.o"
+".\objects\photo_gallery_images.o"
+".\objects\snake.o"
+".\objects\did_he_run_images.o"
+".\objects\did_he_run_main.o"
+".\objects\jokes.o"
+".\objects\buttons_mcb1700.o"
+".\objects\gpio_lpc17xx.o"
+".\objects\pin_lpc17xx.o"
+".\objects\startup_lpc17xx_1.o"
+".\objects\system_lpc17xx_1.o"
+--strict --scatter ".\Objects\media_center_project.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\media_center_project.map" -o .\Objects\media_center_project.axf
